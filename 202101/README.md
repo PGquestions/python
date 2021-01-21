@@ -1,3 +1,11 @@
+
+
+202101/20210121_01.md [<模块re>](https://gitee.com/pgquestions/python/blob/main/202101/20210121_01.md)   
+
+202101/20210120_01.md [<递归函数>](https://gitee.com/pgquestions/python/blob/main/202101/20210120_01.md)   
+
+202101/20210118_01.md [<元字符>](https://gitee.com/pgquestions/python/blob/main/202101/20210118_01.md)   
+
 202101/20210117_07.md [<模块hashlib>](https://gitee.com/pgquestions/python/blob/main/202101/20210117_07.md)   
 202101/20210117_06.md [<模块的搜索路径>](https://gitee.com/pgquestions/python/blob/main/202101/20210117_06.md)   
 202101/20210117_05.md [<模块collections>](https://gitee.com/pgquestions/python/blob/main/202101/20210117_05.md)  
